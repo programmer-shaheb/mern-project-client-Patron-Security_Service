@@ -1,0 +1,15 @@
+.sidebar {
+  background: #ef904d;
+  position: fixed;
+}
+.sidebar li {
+  margin-bottom: 2em;
+  transition: 0.2s ease-in;
+}
+.sidebar li:hover {
+  padding-left: 10px;
+  text-decoration: none;
+}
+.sidebar svg {
+  margin-right: 5px;
+}

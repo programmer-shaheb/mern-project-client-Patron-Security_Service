@@ -1,0 +1,14 @@
+.manage {
+  padding: 30px;
+}
+
+.manage li {
+  list-style-type: none;
+  font-size: 20px;
+  padding: 15px;
+}
+
+.manage .icon {
+  margin-left: 20px;
+  cursor: pointer;
+}
